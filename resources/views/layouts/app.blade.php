@@ -13,6 +13,7 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ asset('css/bundle.css') }}" rel="stylesheet">
+    <link rel="manifest" href="/manifest.json">
 
 </head>
 <body>

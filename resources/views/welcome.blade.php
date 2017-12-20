@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="{{asset('css/bundle.css')}}">
         <!-- Styles -->
       <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+      <link rel="manifest" href="/manifest.json">
     </head>
     <body>
        <div class="flex-center position-ref full-height">
@@ -30,7 +31,7 @@
 
             <div class="content">
                 
-                <div class="title m-b-md jumbotron">
+                <div class="title m-b-md">
                    <h1> NAPITALAI ICTC </h1>
                    <div id="sp-links">
                        <a id="sp-facebook" href="https://www.facebook.com/alois.napitalai"><span class="fa fa-facebook"></span></a>

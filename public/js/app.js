@@ -994,6 +994,12 @@ var app = new Vue({
   el: '#app'
 });
 
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('/sw.js').then(function () {
+    console.log('Service Worker Registered');
+  });
+}
+
 /***/ }),
 /* 11 */
 /***/ (function(module, exports, __webpack_require__) {
