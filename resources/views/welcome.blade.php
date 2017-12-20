@@ -36,7 +36,7 @@
                    <div id="sp-links">
                        <a id="sp-facebook" href="https://www.facebook.com/alois.napitalai"><span class="fa fa-facebook"></span></a>
                        <a id="sp-twitter" href="#"><span class="fa fa-twitter"></span></a>
-                    <a id="sp-google" href="#"><span class="fa fa-google-plus"></span></a>
+                    <a id="sp-google" href="https://plus.google.com/+AloisNapitalai"><span class="fa fa-google-plus"></span></a>
                    </div>
                 </div>
               
